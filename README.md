@@ -99,7 +99,7 @@ The system integrates Arduino UNO, ultrasonic sensor on a servo motor, and displ
 
 **Circuit Diagram:**
 <div align="center">
-<img src="circuit_diagram.png" width="500" />
+<img src="acircuit_diagram.png" width="500" />
 <p><b>Radar System Circuit Diagram</b></p>
 </div>
 
@@ -110,6 +110,7 @@ The system integrates Arduino UNO, ultrasonic sensor on a servo motor, and displ
 
 <div align="center">
   <img src="radar_demo.jpg" width="500" />
+  <img src="radar_demo1.jpg" width="500" />
   <p><b>Arduino Radar System in Action</b></p>
 </div>
 
